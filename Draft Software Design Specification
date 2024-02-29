@@ -1,0 +1,22 @@
+Software title: Personal Finance Assistant
+Team members: Duc Nguyen, Adrian Balingit
+
+
+Brief overview of the system: The Personal Finance Assistant is a comprehensive software designed to help individuals achieve their financial goals
+by educating, especially the young, about their finances. It helps them manage their finances effectively with wise decisions. It provides users with
+tools for budgeting including tracking income and expenses to aid in financial management and micro-investing. Moreover, the software also offers tools for managing debt.
+
+
+Architectural diagram of all major components
+UML Class Diagram
+Description of classes: 
+Description of attributes: 
+Description of operations
+* descriptions should be detailed and specify datatypes, function interfaces, parameters, etc..
+
+
+Development plan and timeline
+
+
+Partitioning of tasks
+Team member responsibilities
